@@ -20,7 +20,7 @@ UML Editor Website: https://app.diagrams.net
 - [ ] Usage of access levels
 - [x] Object-oriented design
 <br><br>
-# [[ VISUAL REPRESENATION OF UML DIAGRAM ]]
+# VISUAL REPRESENATION OF UML DIAGRAM
 <br>
 ( Click image to fully view. Diagram must be manually updated )
 
