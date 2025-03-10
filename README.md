@@ -4,7 +4,7 @@ UML Editor Website: https://app.diagrams.net
 <br><br>
 # To-Do List
 - [x] Members of a forum can post messages to the forum
-- [ ] Members of a forum can read messages posted by other members to the forum, filtered and/or sorted by message author, thread, or date
+- [x] Members of a forum can read messages posted by other members to the forum, filtered and/or sorted by message author, thread, or date
 - [x] Members of a forum can leave a forum
 - [x] Users on the website can create new forums
 - [x] Users on the website can join an existing forum as member
